@@ -45,6 +45,9 @@ cd docker_lab/scr
 docker build -t wine_app .
 docker run -p 4000:4000 wine_app
 Example Input (Wine Features)
+
+
+
 Feature	Example Value
 Fixed Acidity	7.4
 Volatile Acidity	0.7
