@@ -63,4 +63,4 @@ Alcohol	9.4
 
 🧮 Predicted Quality: Around 4.5 – 5.0
 
-docker build -t wine_app .
+The application outputs a predicted wine quality score (ranging from 0–10) based on the 11 chemical features you input.
